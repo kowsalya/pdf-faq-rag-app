@@ -1,7 +1,10 @@
-# Ignore environment files
+# Environment files
 .env
 
-# Ignore vector database
+# Virtual environment
+venv/
+
+# Vector DB
 faiss_index/
 
 # Python cache
